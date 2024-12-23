@@ -1,4 +1,6 @@
 .terraform/
+*.jsonc
+*.log
 terraform.tfstate
 terraform.tfstate.backup
 variables.auto.tfvars
